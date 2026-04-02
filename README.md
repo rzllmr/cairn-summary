@@ -2,7 +2,7 @@
 
 > A digest of the rules and procedures for the TTRPG [Cairn](https://cairnrpg.com/) by [Yochai Gal](https://newschoolrevolution.com/about/).
 
-After I read the Player's and Warden's Guide of Cairn 2e, I had problems keeping everything about its rules and procedures in mind to feel ready to host a session. So I condensed all I found essential but too scattered throughout the books to a brief cheat sheet. And got an even better understanding while trying to trim everything down. The results you find over at [itch.io](https://rzllmr.itch.io/cairn-2e-rules-summary).
+After I read the Player's and Warden's Guide of Cairn 2e, I had problems keeping everything about its rules and procedures in mind to feel ready to host a session. So I condensed all I found essential but too scattered throughout the books to a brief cheat sheet. And got an even better understanding while trying to trim everything down. The results you find over at [itch.io](https://rzllmr.itch.io/cairn-rules-summary).
 
 ## Build instructions
 
