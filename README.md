@@ -28,11 +28,11 @@ To correctly print the booklet you have to ensure the following settings:
 
 ## Fonts
 
-* __Alegreya__ by Juan Pablo del Peral (https://fonts.google.com/specimen/Alegreya)
+* __Alegreya__ by Juan Pablo del Peral ([Google Fonts](https://fonts.google.com/specimen/Alegreya))
 
-* __Alegreya SC__ by Juan Pablo del Peral (https://fonts.google.com/specimen/Alegreya+SC)
+* __Alegreya SC__ by Juan Pablo del Peral ([Google Fonts](https://fonts.google.com/specimen/Alegreya+SC))
 
-* __Shantell Sans__ by Shantell Martin, Stephen Nixon, and Anya Danilova (https://fonts.google.com/specimen/Shantell+Sans)
+* __Shantell Sans__ by Shantell Martin, Stephen Nixon, and Anya Danilova ([Google Fonts](https://fonts.google.com/specimen/Shantell+Sans))
 
 ## Contribution
 
