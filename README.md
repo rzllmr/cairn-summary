@@ -20,7 +20,7 @@ Otherwise you can also produce it with the pages ordered straight from 1 to 8 fo
 
 `typst compile --input format=pages main.typ cairn_summary_pages.pdf`
 
-And as soon as you got that working you can start modifying everything as you wish with the help of the Typst documentation [here]](https://typst.app/docs/).
+And as soon as you got that working you can start modifying everything as you wish with the help of the Typst documentation [here](https://typst.app/docs/).
 
 To correctly print the booklet you have to ensure the following settings:
 * two-sided printing with the flip on the short edge
